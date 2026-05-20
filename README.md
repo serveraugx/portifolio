@@ -1,2 +1,6 @@
 This project is a portifolio of Luqman Hamza Mohammed Ausiy
-The project been divided to 3 project files
+Is About My Self
+
+
+
+github link :https://github.com/serveraugx/portifolio.git
