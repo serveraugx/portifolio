@@ -22,7 +22,7 @@
      margin: 20px;
  }
  img {
-    max-width: 60%;
+    width:  500px;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -72,4 +72,15 @@
                 
                }
                 
+            }
+
+
+            button{
+                background-color: blue;
+                color: white;
+                border: none;
+                padding: 10px 20px;
+                border-radius: 5px;
+                cursor: pointer;
+                justify-content: center;
             }
